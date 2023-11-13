@@ -1,2 +1,2 @@
-# Netfilx-clone-
-Creating a Netflix clone webpage using HTML,CSS 
+# Portfolio-
+Creating a Portfolio webpage using HTML,CSS 
